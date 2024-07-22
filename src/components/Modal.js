@@ -1,11 +1,11 @@
-import React from 'react';
-//import './style/modal.scss'; // Importez le fichier SCSS
+import React from "react";
 
 const Modal = ({ show, onClose, message }) => {
+  // Si la propriété "show" est fausse, ne rien afficher (retourne null)
   if (!show) {
     return null;
   }
-
+  // Sinon, afficher le contenu du modal
   return (
     <div className="modal" role="dialog" aria-modal="true">
       <div className="modal-content">
