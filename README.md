@@ -26,7 +26,7 @@ cd my-unique-modal-component
 
 npm install
 
-### 3. Lancer le Serveur de Développement
+## lancer-lapplication
 
 npm start
 
