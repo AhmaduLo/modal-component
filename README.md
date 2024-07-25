@@ -9,7 +9,6 @@
 - [Utilisation du Composant Modal](#utilisation-du-composant-modal)
 - [Structure du Projet](#structure-du-projet)
 - [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Installation
 
