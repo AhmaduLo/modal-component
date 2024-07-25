@@ -48,6 +48,35 @@ message	                  string	                 Message à afficher dans le mo
 Le composant modal utilise les styles définis dans modal.scss. Assurez-vous que votre projet est configuré pour traiter les fichiers SCSS.
 ![image](https://github.com/user-attachments/assets/b514a267-23d3-4876-8f9e-c23f042e87c8)
 
+
+## structure-du-projet
+
+my-unique-modal-component/
+├── node_modules/
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── components/
+│   │   └── Modal.js
+│   ├── styles/
+│   │   └── modal.scss
+│   ├── App.js
+│   ├── App.css
+│   ├── App.test.js
+│   ├── index.js
+│   ├── index.css
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+├── .gitignore
+├── package.json
+├── README.md
+└── yarn.lock
 #### 3. Contribuer
 
 Les contributions sont les bienvenues! Veuillez soumettre des pull requests et ouvrir des issues pour tout problème ou suggestion.
