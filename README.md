@@ -46,6 +46,7 @@ Pour installer ce package, utilisez npm:
 
 ## importer le Composant
 Importez le composant Modal depuis le package my-unique-modal-component dans votre projet.
+
 import { Modal } from 'my-unique-modal-component';
 
 Voici un exemple de base sur la façon d'utiliser le composant Modal dans votre application React.
