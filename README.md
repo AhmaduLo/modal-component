@@ -42,7 +42,7 @@ Assurez-vous d'avoir les versions suivantes installées :
 ## Installation
 Pour installer ce package, utilisez npm:
 
--**npm install my-unique-modal-component@1.0.4**
+-**npm install my-unique-modal-component@1.0.5**
 
 ## importer le Composant
 Importez le composant Modal depuis le package my-unique-modal-component dans votre projet.
