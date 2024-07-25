@@ -1,6 +1,13 @@
-# my-unique-modal-component
+# My Unique Modal Component
 
 `my-unique-modal-component` est un composant React simple et réutilisable pour afficher des modals dans votre application.
+
+## Table des Matières
+
+- [Installation](#installation)
+- [Lancer l'Application](#lancer-lapplication)
+- [Utilisation du Composant Modal](#utilisation-du-composant-modal)
+
 
 ## Installation
 
@@ -18,7 +25,7 @@ cd modal-component
 
 npm i my-unique-modal-component
 
-## Lancer le Serveur de Développement
+## lancer-lapplication
 
 npm start
 
