@@ -51,32 +51,8 @@ Le composant modal utilise les styles définis dans modal.scss. Assurez-vous que
 
 ## structure-du-projet
 
-my-unique-modal-component/
-├── node_modules/
-├── public/
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── logo192.png
-│   ├── logo512.png
-│   ├── manifest.json
-│   └── robots.txt
-├── src/
-│   ├── components/
-│   │   └── Modal.js
-│   ├── styles/
-│   │   └── modal.scss
-│   ├── App.js
-│   ├── App.css
-│   ├── App.test.js
-│   ├── index.js
-│   ├── index.css
-│   ├── logo.svg
-│   ├── reportWebVitals.js
-│   └── setupTests.js
-├── .gitignore
-├── package.json
-├── README.md
-└── yarn.lock
+![image](https://github.com/user-attachments/assets/8213ff0a-f80d-491d-8021-63d9fcafc70b)
+
 #### 3. Contribuer
 
 Les contributions sont les bienvenues! Veuillez soumettre des pull requests et ouvrir des issues pour tout problème ou suggestion.
