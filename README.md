@@ -47,10 +47,17 @@ Pour installer ce package, utilisez npm:
 ## importer le Composant
 Importez le composant Modal depuis le package my-unique-modal-component dans votre projet.
 
-**import { Modal } from 'my-unique-modal-component';**
 
-![alt text](image.png)
-![alt text](image-1.png)
+```import { Modal } from "my-unique-modal-component";```
+
+en utilisant :
+``` const [showModal, setShowModal] = useState(false);```
+
+tu peut femer la modal
+```const closeModal = () => { setShowModal(false); };```
+
+ ouvril la modal
+```setShowModal(true); ```
 
 ## Auteurs
 Ahmadu Bamba Gaye 

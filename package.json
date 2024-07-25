@@ -1,6 +1,6 @@
 {
   "name": "my-unique-modal-component",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A reusable modal component for React applications",
   "main": "dist/index.js",
   "scripts": {
