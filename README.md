@@ -37,10 +37,8 @@ Voici comment vous pouvez utiliser le composant Modal dans votre projet React.
 #### 1. Props
 Le composant Modal accepte les props suivantes :
 
-Prop	                    Type	                   Description
-show	                    boolean	                 Indique si le modal doit être affiché.
-onClose	                  function	               Fonction à appeler pour fermer le modal.
-message	                  string	                 Message à afficher dans le modal.
+![image](https://github.com/user-attachments/assets/5f390530-60f5-4e7c-815f-9b7adf964942)
+
 
 
 #### 2. Styles
